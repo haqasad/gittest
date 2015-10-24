@@ -1,0 +1,1 @@
+This is a test file to check Egit on Eclipse. This is my desktop Ubuntu 14.04
